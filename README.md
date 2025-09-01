@@ -7,7 +7,7 @@ This project was implemented and tested on **Kali Linux**.
 
 ##  Features
 ✔ Hide **text messages** inside an image  
-✔ Hide **secret text files** like `secret.txt` inside an image (Hide **any file** such as text files (`.txt`), documents, or small data files inside an image) 
+✔ Hide **secret text files** like `secret.txt` inside an image (Hide **any file** such as text files (`.txt`), documents, or small data files inside an image)
 ✔ **Password-based encryption** for extra security  
 ✔ **Extract hidden data** back from the image  
 ✔ Simple CLI-based tool, lightweight, and easy to use  
